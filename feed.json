@@ -2,17 +2,66 @@
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Kev Quirk",
 	"icon": "https://micro.blog/kq/avatar.jpg",
-	"home_page_url": "https://micro.kevquirk.com/",
-	"feed_url": "https://micro.kevquirk.com/feed.json",
+	"home_page_url": "https://qrk.social/",
+	"feed_url": "https://qrk.social/feed.json",
 	"items": [
 		
+			{
+				"id": "http://kq.micro.blog/2023/03/24/ive-started-wearing.html",
+				
+				"content_html": "<p>I&rsquo;ve started wearing a fitness tracker (a Garmin Vivosmart 5, to be more accurate), but I already wear a traditional watch. So I have a watch on one wrist and the tracker on the other. It&rsquo;s weird, but I&rsquo;m getting used to it.</p>\n",
+				"content_text": "I've started wearing a fitness tracker (a Garmin Vivosmart 5, to be more accurate), but I already wear a traditional watch. So I have a watch on one wrist and the tracker on the other. It's weird, but I'm getting used to it.\n",
+				"date_published": "2023-03-24T08:35:52+00:00",
+				"url": "https://qrk.social/2023/03/24/ive-started-wearing.html"
+			},
+			{
+				"id": "http://kq.micro.blog/2023/03/21/some-really-interesting.html",
+				
+				"content_html": "<p>Some really interesting calculations from Manu here in response to <a href=\"https://micro.blog/tdarb@fosstodon.org\">@tdarb@fosstodon.org</a> post. It’s a <strong>very</strong> compelling argument and now I’m thinking about removing my custom font…</p>\n<p><a href=\"https://manuelmoreale.com/bandwidth-consumption\">manuelmoreale.com/bandwidth&hellip;</a></p>\n",
+				"content_text": "Some really interesting calculations from Manu here in response to [@tdarb@fosstodon.org](https://micro.blog/tdarb@fosstodon.org) post. It’s a **very** compelling argument and now I’m thinking about removing my custom font…\n\n[manuelmoreale.com/bandwidth...](https://manuelmoreale.com/bandwidth-consumption)\n",
+				"date_published": "2023-03-21T23:36:29+00:00",
+				"url": "https://qrk.social/2023/03/21/some-really-interesting.html"
+			},
+			{
+				"id": "http://kq.micro.blog/2023/03/21/are-all-the.html",
+				
+				"content_html": "<p>Are all the timelines etc. blank for anyone else on the Micro.blog app?</p>\n",
+				"content_text": "Are all the timelines etc. blank for anyone else on the Micro.blog app?\n",
+				"date_published": "2023-03-21T18:53:12+00:00",
+				"url": "https://qrk.social/2023/03/21/are-all-the.html"
+			},
+			{
+				"id": "http://kq.micro.blog/2023/03/19/i-dont-get.html",
+				
+				"content_html": "<p>I don’t get it; what’s the difference between a digital garden and a blog? 🤷‍♂️</p>\n",
+				"content_text": "I don’t get it; what’s the difference between a digital garden and a blog? 🤷‍♂️\n",
+				"date_published": "2023-03-19T22:47:30+00:00",
+				"url": "https://qrk.social/2023/03/19/i-dont-get.html"
+			},
+			{
+				"id": "http://kq.micro.blog/2023/03/19/anyone-know-how.html",
+				
+				"content_html": "<p>Anyone know how I go about discovering a new fediverse account here on Micro.blog please? I’m trying to follow <a href=\"https://micro.blog/torvalds@social.kernel.org\">@torvalds@social.kernel.org</a> but he’s not appearing in any results.</p>\n<p>Hey, Linus!</p>\n",
+				"content_text": "Anyone know how I go about discovering a new fediverse account here on Micro.blog please? I’m trying to follow [@torvalds@social.kernel.org](https://micro.blog/torvalds@social.kernel.org) but he’s not appearing in any results.\n\nHey, Linus!\n",
+				"date_published": "2023-03-19T22:29:44+00:00",
+				"url": "https://qrk.social/2023/03/19/anyone-know-how.html"
+			},
+			{
+				"id": "http://kq.micro.blog/2023/03/19/one-of-my.html",
+				
+				"content_html": "<p>One of my favourite things to do on a Sunday…spannering on the bikes. Today is a wheel bearing change.</p>\n<p>🔧 + 🏍️ = 👍</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "One of my favourite things to do on a Sunday…spannering on the bikes. Today is a wheel bearing change.\n\n🔧 + 🏍️ = 👍\n\n<img src=\"uploads/2023/ea80d169fe.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2023/34e4552a3f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-03-19T11:43:57+00:00",
+				"url": "https://qrk.social/2023/03/19/one-of-my.html",
+				"tags": ["Photos"]
+			},
 			{
 				"id": "http://kq.micro.blog/2023/03/18/since-moving-house.html",
 				
 				"content_html": "<p>Since moving house back in October, it feels like all we’ve been doing is haemorrhaging money…around £40,000 so far to be exact!</p>\n<p>We’re starting to see some progress now though, and I have to say, I’m very glad we moved. 😊</p>\n",
 				"content_text": "Since moving house back in October, it feels like all we’ve been doing is haemorrhaging money…around £40,000 so far to be exact!\n\nWe’re starting to see some progress now though, and I have to say, I’m very glad we moved. 😊 \n",
 				"date_published": "2023-03-18T20:25:11+00:00",
-				"url": "https://micro.kevquirk.com/2023/03/18/since-moving-house.html"
+				"url": "https://qrk.social/2023/03/18/since-moving-house.html"
 			},
 			{
 				"id": "http://kq.micro.blog/2023/03/16/analytics-discourage-creativity.html",
@@ -20,7 +69,7 @@
 				"content_html": "<p><a href=\"https://bookishnoelle.linefeed.app/analytics-discourage-creativity-27cc8b\">Analytics Discourage Creativity</a> by <a href=\"https://mstdn.social/@noellemitchell\">@noellemitchell@mstdn.social</a></p>\n<p>I really feel this post and have <a href=\"https://kevquirk.com/revisiting-the-web-analytics-rabbit-hole/\">been down this rabbit hole myself</a>.</p>\n<p>BTW, I’m reading your blog, Noelle…hi! 👋</p>\n",
 				"content_text": "[Analytics Discourage Creativity](https://bookishnoelle.linefeed.app/analytics-discourage-creativity-27cc8b) by [@noellemitchell@mstdn.social](https://mstdn.social/@noellemitchell)\n\nI really feel this post and have [been down this rabbit hole myself](https://kevquirk.com/revisiting-the-web-analytics-rabbit-hole/).\n\nBTW, I’m reading your blog, Noelle…hi! 👋\n",
 				"date_published": "2023-03-16T22:41:57+00:00",
-				"url": "https://micro.kevquirk.com/2023/03/16/analytics-discourage-creativity.html"
+				"url": "https://qrk.social/2023/03/16/analytics-discourage-creativity.html"
 			},
 			{
 				"id": "http://kq.micro.blog/2023/03/15/jason-kottke-celebrated.html",
@@ -28,7 +77,7 @@
 				"content_html": "<p><a href=\"https://kottke.org/23/03/kottke-is-25-years-old-today\">Jason Kottke celebrated 25 years of blogging yesterday</a> that’s just incredible to me.</p>\n<p>Incidentally, I celebrated <a href=\"https://kevquirk.com/ten-years-of-blogging/\">10 years of blogging</a> myself recently.</p>\n<p>Hurray for the personal blog! 🎉</p>\n",
 				"content_text": "[Jason Kottke celebrated 25 years of blogging yesterday](https://kottke.org/23/03/kottke-is-25-years-old-today) that’s just incredible to me.\n\nIncidentally, I celebrated [10 years of blogging](https://kevquirk.com/ten-years-of-blogging/) myself recently.\n\nHurray for the personal blog! 🎉\n",
 				"date_published": "2023-03-15T22:39:24+00:00",
-				"url": "https://micro.kevquirk.com/2023/03/15/jason-kottke-celebrated.html"
+				"url": "https://qrk.social/2023/03/15/jason-kottke-celebrated.html"
 			},
 			{
 				"id": "http://kq.micro.blog/2023/03/14/btht-stop-using.html",
@@ -36,7 +85,7 @@
 				"content_html": "<p><a href=\"https://bt.ht/webfonts\">bt.ht</a></p>\n<blockquote>\n<p>Stop Using Custom Web Fonts</p>\n</blockquote>\n<p>I’m not sure I agree with Brad here. Well, for the most part I do, but I have a font on my site, and I use it because I really like how it looks. That all, that’s the reason. 😊</p>\n<p>I’ve also had a few people comment about the font, so <em>some</em> people clearly do appreciate custom fonts. Agree though, performance still needs to be a key factor.</p>\n",
 				"content_text": " [bt.ht](https://bt.ht/webfonts)\n\n> Stop Using Custom Web Fonts\n\nI’m not sure I agree with Brad here. Well, for the most part I do, but I have a font on my site, and I use it because I really like how it looks. That all, that’s the reason. 😊\n\nI’ve also had a few people comment about the font, so *some* people clearly do appreciate custom fonts. Agree though, performance still needs to be a key factor.\n",
 				"date_published": "2023-03-14T22:44:44+00:00",
-				"url": "https://micro.kevquirk.com/2023/03/14/btht-stop-using.html"
+				"url": "https://qrk.social/2023/03/14/btht-stop-using.html"
 			},
 			{
 				"id": "http://kq.micro.blog/2023/03/13/i-hear-a.html",
@@ -44,7 +93,7 @@
 				"content_html": "<p>I hear a lot of Americans saying “I went for a hike today…” in posts that are accompanied by often beautiful pictures of the US vast and varied landscape.</p>\n<p>But what is “a hike” to your average American? Because to me (British), a hike is a 20 mile hike up a large hill/mountain. Is it the same?</p>\n",
 				"content_text": "I hear a lot of Americans saying “I went for a hike today…” in posts that are accompanied by often beautiful pictures of the US vast and varied landscape.\n\nBut what is “a hike” to your average American? Because to me (British), a hike is a 20 mile hike up a large hill/mountain. Is it the same?\n",
 				"date_published": "2023-03-13T07:18:43+00:00",
-				"url": "https://micro.kevquirk.com/2023/03/13/i-hear-a.html"
+				"url": "https://qrk.social/2023/03/13/i-hear-a.html"
 			},
 			{
 				"id": "http://kq.micro.blog/2023/03/12/sledging-with-the.html",
@@ -52,7 +101,7 @@
 				"content_html": "<p>Sledging with the kids…that sky! 🛷</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Sledging with the kids…that sky! 🛷\n\n<img src=\"uploads/2023/3f7c7221ea.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-03-12T13:52:53+00:00",
-				"url": "https://micro.kevquirk.com/2023/03/12/sledging-with-the.html",
+				"url": "https://qrk.social/2023/03/12/sledging-with-the.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -61,7 +110,7 @@
 				"content_html": "<p>This makes me sad and very worried.</p>\n<p><a href=\"https://m.youtube.com/watch?v=LFGbWGMsuVY\">m.youtube.com/watch</a></p>\n",
 				"content_text": "This makes me sad and very worried.\n\n[m.youtube.com/watch](https://m.youtube.com/watch?v=LFGbWGMsuVY)\n",
 				"date_published": "2023-03-12T07:04:35+00:00",
-				"url": "https://micro.kevquirk.com/2023/03/12/this-makes-me.html"
+				"url": "https://qrk.social/2023/03/12/this-makes-me.html"
 			},
 			{
 				"id": "http://kq.micro.blog/2023/03/11/so-i-did.html",
@@ -69,7 +118,7 @@
 				"content_html": "<p>So I did an <a href=\"https://www.skxmod.com\">SKXMOD</a> on my #Casio AE1200. Metal case, sapphire crystal and a silicone strap. Really happy with it! ⌚️</p>\n<p>(Bronze is before, black/silver is after)</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "So I did an [SKXMOD](https://www.skxmod.com) on my #Casio AE1200. Metal case, sapphire crystal and a silicone strap. Really happy with it! ⌚️\n\n(Bronze is before, black/silver is after) \n\n<img src=\"uploads/2023/74c2079c0f.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/c02ff7be7a.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/d197577b1b.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/46155f38b8.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/c6b5e3569c.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/e75bbefb87.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-03-11T17:01:50+00:00",
-				"url": "https://micro.kevquirk.com/2023/03/11/so-i-did.html",
+				"url": "https://qrk.social/2023/03/11/so-i-did.html",
 				"tags": ["Watches","Photos"]
 			},
 			{
@@ -78,7 +127,7 @@
 				"content_html": "<p>I think I&rsquo;m good, thanks, Zoho.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I think I'm good, thanks, Zoho.\n\n<img src=\"uploads/2023/1f5696e8dd.png\" width=\"600\" height=\"306\" alt=\"\">\n",
 				"date_published": "2023-03-11T16:30:27+00:00",
-				"url": "https://micro.kevquirk.com/2023/03/11/i-think-im.html",
+				"url": "https://qrk.social/2023/03/11/i-think-im.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -87,7 +136,7 @@
 				"content_html": "<p>So there&rsquo;s a parody website that I came across a while back that is a demonstration of how bad the web in terms of popups, ads, modals etc. but I can&rsquo;t find the link right now. Would any of you fine people happen to know what it is please?</p>\n<p>Thanks!</p>\n",
 				"content_text": "So there's a parody website that I came across a while back that is a demonstration of how bad the web in terms of popups, ads, modals etc. but I can't find the link right now. Would any of you fine people happen to know what it is please?\r\n\r\nThanks!\r\n",
 				"date_published": "2023-03-11T09:35:34+00:00",
-				"url": "https://micro.kevquirk.com/2023/03/11/so-theres-a.html"
+				"url": "https://qrk.social/2023/03/11/so-theres-a.html"
 			},
 			{
 				"id": "http://kq.micro.blog/2023/03/10/how-is-it.html",
@@ -95,7 +144,7 @@
 				"content_html": "<p>How is it that things can go from heavy snow to me practically getting sunburn in the space of a few hours??</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "How is it that things can go from heavy snow to me practically getting sunburn in the space of a few hours??\n\n<img src=\"uploads/2023/5677eb2f0e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-03-10T14:13:05+00:00",
-				"url": "https://micro.kevquirk.com/2023/03/10/how-is-it.html",
+				"url": "https://qrk.social/2023/03/10/how-is-it.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -104,7 +153,7 @@
 				"content_html": "<p>Really enjoyed this post about a Minimal Viable Blog. I think it can be improved slightly though, so I’m gonna give it a go.</p>\n<p><a href=\"https://manuelmoreale.com/minimum-viable-blog\">manuelmoreale.com/minimum-v&hellip;</a></p>\n",
 				"content_text": "Really enjoyed this post about a Minimal Viable Blog. I think it can be improved slightly though, so I’m gonna give it a go.\n\n[manuelmoreale.com/minimum-v...](https://manuelmoreale.com/minimum-viable-blog)\n",
 				"date_published": "2023-03-09T21:56:09+00:00",
-				"url": "https://micro.kevquirk.com/2023/03/09/really-enjoyed-this.html"
+				"url": "https://qrk.social/2023/03/09/really-enjoyed-this.html"
 			},
 			{
 				"id": "http://kq.micro.blog/2023/03/09/spring-has-sprungapparently.html",
@@ -112,7 +161,7 @@
 				"content_html": "<p>Spring has sprung&hellip;apparently. 😳</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Spring has sprung...apparently. 😳\n\n<img src=\"uploads/2023/faadb46875.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-03-09T10:32:05+00:00",
-				"url": "https://micro.kevquirk.com/2023/03/09/spring-has-sprungapparently.html",
+				"url": "https://qrk.social/2023/03/09/spring-has-sprungapparently.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -121,7 +170,7 @@
 				"content_html": "<p>Daily challenge day 9 - <strong>“together”</strong></p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Daily challenge day 9 - **“together”**\n\n<img src=\"uploads/2023/9f9042d236.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-09T06:48:11+00:00",
-				"url": "https://micro.kevquirk.com/2023/03/09/daily-challenge-day.html",
+				"url": "https://qrk.social/2023/03/09/daily-challenge-day.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -130,7 +179,7 @@
 				"content_html": "<p>Photo challenge day 8 - “walk”. Here’s a photo of the Welsh hills during a lovely walk with my wife recently…</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Photo challenge day 8 - “walk”. Here’s a photo of the Welsh hills during a lovely walk with my wife recently…\n\n<img src=\"uploads/2023/f235f31a33.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-08T06:16:28+00:00",
-				"url": "https://micro.kevquirk.com/2023/03/08/photo-challenge-day.html",
+				"url": "https://qrk.social/2023/03/08/photo-challenge-day.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -139,7 +188,7 @@
 				"content_html": "<p>Love this bridge that isn’t far from my house. Good one for @challenge day 6 - “Engineering”.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Love this bridge that isn’t far from my house. Good one for @challenge day 6 - “Engineering”.\n\n<img src=\"uploads/2023/72f2d28d12.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-07T23:22:52+00:00",
-				"url": "https://micro.kevquirk.com/2023/03/07/love-this-bridge.html",
+				"url": "https://qrk.social/2023/03/07/love-this-bridge.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -148,7 +197,7 @@
 				"content_html": "<p>A WHOLE lot of stars. 📸</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "A WHOLE lot of stars. 📸\n\n<img src=\"uploads/2023/adde0c4d79.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-03-07T19:06:39+00:00",
-				"url": "https://micro.kevquirk.com/2023/03/07/a-whole-lot.html",
+				"url": "https://qrk.social/2023/03/07/a-whole-lot.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -157,7 +206,7 @@
 				"content_html": "<p>OK, I&rsquo;ve upgraded my account and I&rsquo;m giving this this a proper try. Hello, world!</p>\n",
 				"content_text": "OK, I've upgraded my account and I'm giving this this a proper try. Hello, world!\n",
 				"date_published": "2023-03-07T11:21:07+00:00",
-				"url": "https://micro.kevquirk.com/2023/03/07/ok-ive-upgraded.html"
+				"url": "https://qrk.social/2023/03/07/ok-ive-upgraded.html"
 			}
 	]
 }
