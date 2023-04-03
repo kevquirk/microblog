@@ -7,10 +7,69 @@
 	"items": [
 		
 			{
+				"id": "http://kq.micro.blog/2023/04/03/155623.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"uploads/2023/72fcdd9cea.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-04-03T15:56:23+01:00",
+				"url": "https://qrk.social/2023/04/03/155623.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://kq.micro.blog/2023/04/02/one-of-my.html",
+				
+				"content_html": "<p>One of my sons really enjoys drawing, and he decided he wanted to draw one of my watches. He chose the cheapest watch in my collection, one of my Casio F-91W.</p>\n<p>He drew that, then asked to draw another, of course he chose the most expensive watch in my collection. 😳</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "One of my sons really enjoys drawing, and he decided he wanted to draw one of my watches. He chose the cheapest watch in my collection, one of my Casio F-91W.\n\nHe drew that, then asked to draw another, of course he chose the most expensive watch in my collection. 😳\n\n<img src=\"uploads/2023/840da10dce.jpg\" width=\"600\" height=\"354\" alt=\"\">\n",
+				"date_published": "2023-04-02T10:22:52+01:00",
+				"url": "https://qrk.social/2023/04/02/one-of-my.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://kq.micro.blog/2023/04/01/are-there-any.html",
+				
+				"content_html": "<p>Are there any other people here who manage their blog and microblog separately? I’m still trying to work out what that’s gonna look like long term, but I have no plans to fold my main blog into Micro.blog.</p>\n<p>If you keep them separate, what’s that workflow look like for you?</p>\n",
+				"content_text": "Are there any other people here who manage their blog and microblog separately? I’m still trying to work out what that’s gonna look like long term, but I have no plans to fold my main blog into Micro.blog.\n\nIf you keep them separate, what’s that workflow look like for you?\n",
+				"date_published": "2023-04-01T22:29:33+01:00",
+				"url": "https://qrk.social/2023/04/01/are-there-any.html"
+			},
+			{
+				"id": "http://kq.micro.blog/2023/04/01/onemanandhisblogcom-does-it.html",
+				
+				"content_html": "<p><a href=\"https://onemanandhisblog.com/2023/03/does-it-matter-is-substack-is-in-trouble/\">onemanandhisblog.com</a></p>\n<blockquote>\n<p>Does it matter if Substack is in financial trouble?</p>\n</blockquote>\n<p>Really interesting post by <a href=\"https://micro.blog/adders\">@adders</a> about the potential demise of Substack. I know a couple of people who have made Substack their home on the web. It might be time to start looking for alternatives, folks. 😞</p>\n",
+				"content_text": " [onemanandhisblog.com](https://onemanandhisblog.com/2023/03/does-it-matter-is-substack-is-in-trouble/)\n\n> Does it matter if Substack is in financial trouble?\n\nReally interesting post by [@adders](https://micro.blog/adders) about the potential demise of Substack. I know a couple of people who have made Substack their home on the web. It might be time to start looking for alternatives, folks. 😞\n",
+				"date_published": "2023-04-01T22:16:39+01:00",
+				"url": "https://qrk.social/2023/04/01/onemanandhisblogcom-does-it.html"
+			},
+			{
+				"id": "http://kq.micro.blog/2023/03/31/ive-been-making.html",
+				
+				"content_html": "<p>I&rsquo;ve been making some changes to my site over the last couple days, and I just published them. I&rsquo;ve added some splashes of colour around the joint, and I&rsquo;ve also made the about page a little more fun.</p>\n<p>Check it out if you&rsquo;re interested: <a href=\"https://kevquirk.com/about/\">https://kevquirk.com/about</a></p>\n",
+				"content_text": "I've been making some changes to my site over the last couple days, and I just published them. I've added some splashes of colour around the joint, and I've also made the about page a little more fun.\r\n\r\nCheck it out if you're interested: [https://kevquirk.com/about](https://kevquirk.com/about/)\r\n",
+				"date_published": "2023-03-31T17:13:34+01:00",
+				"url": "https://qrk.social/2023/03/31/ive-been-making.html"
+			},
+			{
+				"id": "http://kq.micro.blog/2023/03/31/treated-myself-to.html",
+				
+				"content_html": "<p>Treated myself to a new watch. This is my first Swiss automatic and I’m really thrilled with it. It’s a beautiful thing.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Treated myself to a new watch. This is my first Swiss automatic and I’m really thrilled with it. It’s a beautiful thing.\n\n<img src=\"uploads/2023/7124d69c16.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-03-31T11:02:53+01:00",
+				"url": "https://qrk.social/2023/03/31/treated-myself-to.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://kq.micro.blog/2023/03/30/for-hobbyists-or.html",
+				
+				"content_html": "<blockquote>\n<p>For hobbyists or <strong>students</strong> learning to code.</p>\n</blockquote>\n<p>Yup, because students have $100/month to spare! 😂</p>\n<p><a href=\"https://twittercommunity.com/t/announcing-new-access-tiers-for-the-twitter-api/188728\">twittercommunity.com/t/announc&hellip;</a></p>\n",
+				"content_text": "> For hobbyists or **students** learning to code.\n\nYup, because students have $100/month to spare! 😂\n\n[twittercommunity.com/t/announc...](https://twittercommunity.com/t/announcing-new-access-tiers-for-the-twitter-api/188728)\n",
+				"date_published": "2023-03-30T20:03:22+01:00",
+				"url": "https://qrk.social/2023/03/30/for-hobbyists-or.html"
+			},
+			{
 				"id": "http://kq.micro.blog/2023/03/29/ive-just-been.html",
 				
-				"content_html": "<p>I’ve just been looking at the Apple passwords feature, since lots of people are talking about it at the moment (I’m a Bitwarden user) and it fits like very good. I don’t think I’d use it though. I like the idea of having something like my passwords on its own service. Apple already have enough of my data, they don’t need passwords too.</p>\n",
-				"content_text": "I’ve just been looking at the Apple passwords feature, since lots of people are talking about it at the moment (I’m a Bitwarden user) and it fits like very good. I don’t think I’d use it though. I like the idea of having something like my passwords on its own service. Apple already have enough of my data, they don’t need passwords too.\n",
+				"content_html": "<p>I’ve just been looking at the Apple passwords feature, since lots of people are talking about it at the moment (I’m a Bitwarden user) and it looks very good. I don’t think I’d use it though. I like the idea of having something like my passwords on its own service. Apple already have enough of my data, they don’t need passwords too.</p>\n",
+				"content_text": "I’ve just been looking at the Apple passwords feature, since lots of people are talking about it at the moment (I’m a Bitwarden user) and it looks very good. I don’t think I’d use it though. I like the idea of having something like my passwords on its own service. Apple already have enough of my data, they don’t need passwords too.\n",
 				"date_published": "2023-03-29T07:29:39+01:00",
 				"url": "https://qrk.social/2023/03/29/ive-just-been.html"
 			},
