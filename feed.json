@@ -7,6 +7,74 @@
 	"items": [
 		
 			{
+				"id": "http://kq.micro.blog/2023/04/13/so-far-im.html",
+				
+				"content_html": "<p>So far I’m <strong>incredibly</strong> impressed with <a href=\"https://blot.im\">Blot</a>. The service has all the advantages of an SSG with none of the hassle. The support by the creator, David, is also superbly good.</p>\n<p>99.9% sure I’m gonna migrate from Jekyll at this point.</p>\n",
+				"content_text": "So far I’m **incredibly** impressed with [Blot](https://blot.im). The service has all the advantages of an SSG with none of the hassle. The support by the creator, David, is also superbly good.\n\n99.9% sure I’m gonna migrate from Jekyll at this point.\n",
+				"date_published": "2023-04-13T17:10:36+01:00",
+				"url": "https://qrk.social/2023/04/13/so-far-im.html"
+			},
+			{
+				"id": "http://kq.micro.blog/2023/04/11/heres-a-question.html",
+				
+				"content_html": "<p>⁉️ Here’s a question for you fine people…</p>\n<p>If you’re visiting someone’s blog, do you ever check out the categories/tags of their posts, or don’t you care?</p>\n<p>I don’t think I can recall a single time that I’ve used cats/tags one someone’s blog, especially if they have a search box.</p>\n<p>Is that just me?</p>\n",
+				"content_text": "⁉️ Here’s a question for you fine people…\n\nIf you’re visiting someone’s blog, do you ever check out the categories/tags of their posts, or don’t you care?\n\nI don’t think I can recall a single time that I’ve used cats/tags one someone’s blog, especially if they have a search box.\n\nIs that just me?\n",
+				"date_published": "2023-04-11T23:05:54+01:00",
+				"url": "https://qrk.social/2023/04/11/heres-a-question.html"
+			},
+			{
+				"id": "http://kq.micro.blog/2023/04/11/had-the-day.html",
+				
+				"content_html": "<p>Had the day off work today, so managed to spend a couple hours playing with <a href=\"https://blot.im\">Blot</a>. There’s still a lot to do if I’m actually going to use this thing, but I’m surprised at how easy it is to pickup.</p>\n<p>My dev site on Blot already looks similar to my Jekyll site:</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Had the day off work today, so managed to spend a couple hours playing with [Blot](https://blot.im). There’s still a lot to do if I’m actually going to use this thing, but I’m surprised at how easy it is to pickup.\n\nMy dev site on Blot already looks similar to my Jekyll site:\n\n<img src=\"uploads/2023/44f8a7bcdc.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-04-11T22:51:45+01:00",
+				"url": "https://qrk.social/2023/04/11/had-the-day.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://kq.micro.blog/2023/04/10/wife-and-i.html",
+				
+				"content_html": "<p>Wife and I just finished watching Tetris. It was really good - highly recommended.</p>\n",
+				"content_text": "Wife and I just finished watching Tetris. It was really good - highly recommended.\n",
+				"date_published": "2023-04-10T22:52:18+01:00",
+				"url": "https://qrk.social/2023/04/10/wife-and-i.html"
+			},
+			{
+				"id": "http://kq.micro.blog/2023/04/10/is-good-enoughgood.html",
+				
+				"content_html": "<p>🔗 <a href=\"https://kevquirk.com/is-good-enough-good-enough/\">Is Good Enough&hellip;Good Enough?</a></p>\n<p>This is something I&rsquo;ve been ruminating on recently, whilst going down the familiar &ldquo;is my current blog platform the right one?&rdquo; rabbit hole.</p>\n",
+				"content_text": "🔗 [Is Good Enough...Good Enough?](https://kevquirk.com/is-good-enough-good-enough/)\n\nThis is something I've been ruminating on recently, whilst going down the familiar \"is my current blog platform the right one?\" rabbit hole.\n",
+				"date_published": "2023-04-10T17:24:55+01:00",
+				"url": "https://qrk.social/2023/04/10/is-good-enoughgood.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://kq.micro.blog/2023/04/10/took-the-cover.html",
+				
+				"content_html": "<p>Took the cover off one of my Motorbikes to do some maintenance on it (haven’t ridden it for around a month) and this is what I found. 😳</p>\n<p>I really think I need to do some work on insulating the garage this summer!</p>\n<p>🏍️</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Took the cover off one of my Motorbikes to do some maintenance on it (haven’t ridden it for around a month) and this is what I found. 😳\n\nI really think I need to do some work on insulating the garage this summer!\n\n🏍️\n\n<img src=\"uploads/2023/77b64a59fe.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2023/4ceabf28ce.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2023/b168817f23.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-04-10T15:44:54+01:00",
+				"url": "https://qrk.social/2023/04/10/took-the-cover.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://kq.micro.blog/2023/04/10/nice-family-walk.html",
+				
+				"content_html": "<p>Nice family walk today. We did a little over 7km in the Welsh (hilly) countryside. Particularly impressed with my 5 year old. We got home just as the heavens opened too, so didn’t get too wet.</p>\n<p>Now it’s time for cups of tea and bacon bagels! 🥯 👨‍👩‍👦‍👦 🐾 📸</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Nice family walk today. We did a little over 7km in the Welsh (hilly) countryside. Particularly impressed with my 5 year old. We got home just as the heavens opened too, so didn’t get too wet.\n\nNow it’s time for cups of tea and bacon bagels! 🥯 👨‍👩‍👦‍👦 🐾 📸\n\n<img src=\"uploads/2023/5ef9227141.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2023/a4c2604bf3.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/9c97d5f8ea.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-04-10T12:25:53+01:00",
+				"url": "https://qrk.social/2023/04/10/nice-family-walk.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://kq.micro.blog/2023/04/10/after-my-brief.html",
+				
+				"content_html": "<p>After my brief foray into self-hosting a Microblog (via Wordpress) I decided it would be easier to let <a href=\"https://micro.blog/manton\">@manton</a> and the team worry about plugging the <strong>many</strong> parts together, so I can just enjoy the community.</p>\n<p>So, I’m very happy to be back here on Micro.blog. 😊</p>\n",
+				"content_text": "After my brief foray into self-hosting a Microblog (via Wordpress) I decided it would be easier to let [@manton](https://micro.blog/manton) and the team worry about plugging the **many** parts together, so I can just enjoy the community.\n\nSo, I’m very happy to be back here on Micro.blog. 😊 \n",
+				"date_published": "2023-04-10T08:21:21+01:00",
+				"url": "https://qrk.social/2023/04/10/after-my-brief.html"
+			},
+			{
 				"id": "http://kq.micro.blog/2023/04/09/unfortunately-davatronmastodonsocial-sadly.html",
 				
 				"content_html": "<p>Unfortunately, <a href=\"https://micro.blog/davatron5000@mastodon.social\">@davatron5000@mastodon.social</a> sadly lost his dog, <a href=\"https://daverupert.com/2023/04/goodbye-rudy/\">Rudy</a>. This post brought a tear to my eye, especially since I’m a fellow dog owner with an old girl too.</p>\n<p>I’m so so sorry for your loss, Dave.</p>\n",
@@ -23,23 +91,6 @@
 				"url": "https://qrk.social/2023/04/08/has-the-colour.html"
 			},
 			{
-				"id": "http://kq.micro.blog/2023/04/08/lovely-walk-in.html",
-				
-				"content_html": "<p>Lovely walk in the wood behind our house this evening.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Lovely walk in the wood behind our house this evening.\n\n<img src=\"https://cdn.uploads.micro.blog/102448/2023/b7a4ee8682.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-04-08T20:19:30+01:00",
-				"url": "https://qrk.social/2023/04/08/lovely-walk-in.html",
-				"tags": ["Photos"]
-			},
-			{
-				"id": "http://kq.micro.blog/2023/04/08/let-people-contact.html",
-				
-				"content_html": "<p><a href=\"https://manuelmoreale.com/let-people-contact-you\">Let people contact you</a> by Manu</p>\n<p>I really enjoy Manu’s blog and this post is no exception. Yep. If you have a blog, give readers a way of contacting you that isn’t social media. Please.</p>\n",
-				"content_text": "[Let people contact you](https://manuelmoreale.com/let-people-contact-you) by Manu\r\n\r\nI really enjoy Manu’s blog and this post is no exception. Yep. If you have a blog, give readers a way of contacting you that isn’t social media. Please.\n",
-				"date_published": "2023-04-08T20:09:38+01:00",
-				"url": "https://qrk.social/2023/04/08/let-people-contact.html"
-			},
-			{
 				"id": "http://kq.micro.blog/2023/04/08/today-was-a.html",
 				
 				"content_html": "<p>Today was a beautiful day, so decided to get out for a few hours on one of the Motorbikes. Really glad I did – it’s good for the soul!</p>\n",
@@ -50,11 +101,10 @@
 			{
 				"id": "http://kq.micro.blog/2023/04/07/lovely-walk-in.html",
 				
-				"content_html": "<p>Lovely walk in the wood behind our house this evening.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Lovely walk in the wood behind our house this evening.\n\n<img src=\"uploads/2023/b7a4ee8682.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Lovely walk in the wood behind our house this evening.</p>\n<p><img src=\"https://qrk.social/uploads/2023/b7a4ee8682.jpg\" alt=\"\"></p>\n",
+				"content_text": "Lovely walk in the wood behind our house this evening.\n\n![](https://qrk.social/uploads/2023/b7a4ee8682.jpg)\n",
 				"date_published": "2023-04-07T20:23:00+01:00",
-				"url": "https://qrk.social/2023/04/07/lovely-walk-in.html",
-				"tags": ["Photos"]
+				"url": "https://qrk.social/2023/04/07/lovely-walk-in.html"
 			},
 			{
 				"id": "http://kq.micro.blog/2023/04/06/let-people-contact.html",
@@ -69,7 +119,7 @@
 				"id": "http://kq.micro.blog/2023/04/02/one-of-my.html",
 				
 				"content_html": "<p>One of my sons really enjoys drawing, and he decided he wanted to draw one of my watches. He chose the cheapest watch in my collection, one of my Casio F-91W.</p>\n<p>He drew that, then asked to draw another, of course he chose the most expensive watch in my collection. 😳</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One of my sons really enjoys drawing, and he decided he wanted to draw one of my watches. He chose the cheapest watch in my collection, one of my Casio F-91W.\n\nHe drew that, then asked to draw another, of course he chose the most expensive watch in my collection. 😳\n\n<img src=\"https://cdn.uploads.micro.blog/102448/2023/840da10dce.jpg\" width=\"600\" height=\"354\" alt=\"\">\n",
+				"content_text": "One of my sons really enjoys drawing, and he decided he wanted to draw one of my watches. He chose the cheapest watch in my collection, one of my Casio F-91W.\n\nHe drew that, then asked to draw another, of course he chose the most expensive watch in my collection. 😳\n\n<img src=\"uploads/2023/840da10dce.jpg\" width=\"600\" height=\"354\" alt=\"\">\n",
 				"date_published": "2023-04-02T10:22:52+01:00",
 				"url": "https://qrk.social/2023/04/02/one-of-my.html",
 				"tags": ["Photos"]
@@ -102,7 +152,7 @@
 				"id": "http://kq.micro.blog/2023/03/31/treated-myself-to.html",
 				
 				"content_html": "<p>Treated myself to a new watch. This is my first Swiss automatic and I’m really thrilled with it. It’s a beautiful thing.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Treated myself to a new watch. This is my first Swiss automatic and I’m really thrilled with it. It’s a beautiful thing.\n\n<img src=\"https://cdn.uploads.micro.blog/102448/2023/7124d69c16.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Treated myself to a new watch. This is my first Swiss automatic and I’m really thrilled with it. It’s a beautiful thing.\n\n<img src=\"uploads/2023/7124d69c16.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-03-31T11:02:53+01:00",
 				"url": "https://qrk.social/2023/03/31/treated-myself-to.html",
 				"tags": ["Photos"]
@@ -145,7 +195,7 @@
 				"id": "http://kq.micro.blog/2023/03/25/does-anyone-else.html",
 				
 				"content_html": "<p>Does anyone else have an entire box of watch straps, like this?</p>\n<p>…no? Just me then. 😳</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Does anyone else have an entire box of watch straps, like this?\n\n…no? Just me then. 😳\n\n<img src=\"https://cdn.uploads.micro.blog/102448/2023/7e3cf16691.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Does anyone else have an entire box of watch straps, like this?\n\n…no? Just me then. 😳\n\n<img src=\"uploads/2023/7e3cf16691.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-03-25T11:38:13+01:00",
 				"url": "https://qrk.social/2023/03/25/does-anyone-else.html",
 				"tags": ["Watches","Photos"]
@@ -202,7 +252,7 @@
 				"id": "http://kq.micro.blog/2023/03/19/one-of-my.html",
 				
 				"content_html": "<p>One of my favourite things to do on a Sunday…spannering on the bikes. Today is a wheel bearing change.</p>\n<p>🔧 + 🏍️ = 👍</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "One of my favourite things to do on a Sunday…spannering on the bikes. Today is a wheel bearing change.\n\n🔧 + 🏍️ = 👍\n\n<img src=\"https://cdn.uploads.micro.blog/102448/2023/ea80d169fe.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/102448/2023/34e4552a3f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "One of my favourite things to do on a Sunday…spannering on the bikes. Today is a wheel bearing change.\n\n🔧 + 🏍️ = 👍\n\n<img src=\"uploads/2023/ea80d169fe.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2023/34e4552a3f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-19T12:43:57+01:00",
 				"url": "https://qrk.social/2023/03/19/one-of-my.html",
 				"tags": ["Photos"]
@@ -251,7 +301,7 @@
 				"id": "http://kq.micro.blog/2023/03/12/sledging-with-the.html",
 				
 				"content_html": "<p>Sledging with the kids…that sky! 🛷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sledging with the kids…that sky! 🛷\n\n<img src=\"https://cdn.uploads.micro.blog/102448/2023/3f7c7221ea.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Sledging with the kids…that sky! 🛷\n\n<img src=\"uploads/2023/3f7c7221ea.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-03-12T14:52:53+01:00",
 				"url": "https://qrk.social/2023/03/12/sledging-with-the.html",
 				"tags": ["Photos"]
@@ -268,7 +318,7 @@
 				"id": "http://kq.micro.blog/2023/03/11/so-i-did.html",
 				
 				"content_html": "<p>So I did an <a href=\"https://www.skxmod.com\">SKXMOD</a> on my #Casio AE1200. Metal case, sapphire crystal and a silicone strap. Really happy with it! ⌚️</p>\n<p>(Bronze is before, black/silver is after)</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "So I did an [SKXMOD](https://www.skxmod.com) on my #Casio AE1200. Metal case, sapphire crystal and a silicone strap. Really happy with it! ⌚️\n\n(Bronze is before, black/silver is after) \n\n<img src=\"https://cdn.uploads.micro.blog/102448/2023/74c2079c0f.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/102448/2023/c02ff7be7a.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/102448/2023/d197577b1b.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/102448/2023/46155f38b8.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/102448/2023/c6b5e3569c.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/102448/2023/e75bbefb87.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "So I did an [SKXMOD](https://www.skxmod.com) on my #Casio AE1200. Metal case, sapphire crystal and a silicone strap. Really happy with it! ⌚️\n\n(Bronze is before, black/silver is after) \n\n<img src=\"uploads/2023/74c2079c0f.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/c02ff7be7a.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/d197577b1b.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/46155f38b8.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/c6b5e3569c.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/e75bbefb87.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-03-11T18:01:50+01:00",
 				"url": "https://qrk.social/2023/03/11/so-i-did.html",
 				"tags": ["Watches","Photos"]
@@ -277,7 +327,7 @@
 				"id": "http://kq.micro.blog/2023/03/11/i-think-im.html",
 				
 				"content_html": "<p>I think I&rsquo;m good, thanks, Zoho.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I think I'm good, thanks, Zoho.\n\n<img src=\"https://cdn.uploads.micro.blog/102448/2023/1f5696e8dd.png\" width=\"600\" height=\"306\" alt=\"\">\n",
+				"content_text": "I think I'm good, thanks, Zoho.\n\n<img src=\"uploads/2023/1f5696e8dd.png\" width=\"600\" height=\"306\" alt=\"\">\n",
 				"date_published": "2023-03-11T17:30:27+01:00",
 				"url": "https://qrk.social/2023/03/11/i-think-im.html",
 				"tags": ["Photos"]
@@ -294,7 +344,7 @@
 				"id": "http://kq.micro.blog/2023/03/10/how-is-it.html",
 				
 				"content_html": "<p>How is it that things can go from heavy snow to me practically getting sunburn in the space of a few hours??</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "How is it that things can go from heavy snow to me practically getting sunburn in the space of a few hours??\n\n<img src=\"https://cdn.uploads.micro.blog/102448/2023/5677eb2f0e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "How is it that things can go from heavy snow to me practically getting sunburn in the space of a few hours??\n\n<img src=\"uploads/2023/5677eb2f0e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-03-10T15:13:05+01:00",
 				"url": "https://qrk.social/2023/03/10/how-is-it.html",
 				"tags": ["Photos"]
@@ -311,7 +361,7 @@
 				"id": "http://kq.micro.blog/2023/03/09/spring-has-sprungapparently.html",
 				
 				"content_html": "<p>Spring has sprung&hellip;apparently. 😳</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Spring has sprung...apparently. 😳\n\n<img src=\"https://cdn.uploads.micro.blog/102448/2023/faadb46875.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Spring has sprung...apparently. 😳\n\n<img src=\"uploads/2023/faadb46875.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-03-09T11:32:05+01:00",
 				"url": "https://qrk.social/2023/03/09/spring-has-sprungapparently.html",
 				"tags": ["Photos"]
@@ -320,7 +370,7 @@
 				"id": "http://kq.micro.blog/2023/03/09/daily-challenge-day.html",
 				
 				"content_html": "<p>Daily challenge day 9 - <strong>“together”</strong></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Daily challenge day 9 - **“together”**\n\n<img src=\"https://cdn.uploads.micro.blog/102448/2023/9f9042d236.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Daily challenge day 9 - **“together”**\n\n<img src=\"uploads/2023/9f9042d236.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-09T07:48:11+01:00",
 				"url": "https://qrk.social/2023/03/09/daily-challenge-day.html",
 				"tags": ["Photos"]
@@ -329,7 +379,7 @@
 				"id": "http://kq.micro.blog/2023/03/08/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo challenge day 8 - “walk”. Here’s a photo of the Welsh hills during a lovely walk with my wife recently…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge day 8 - “walk”. Here’s a photo of the Welsh hills during a lovely walk with my wife recently…\n\n<img src=\"https://cdn.uploads.micro.blog/102448/2023/f235f31a33.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Photo challenge day 8 - “walk”. Here’s a photo of the Welsh hills during a lovely walk with my wife recently…\n\n<img src=\"uploads/2023/f235f31a33.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-08T07:16:28+01:00",
 				"url": "https://qrk.social/2023/03/08/photo-challenge-day.html",
 				"tags": ["Photos"]
@@ -338,7 +388,7 @@
 				"id": "http://kq.micro.blog/2023/03/07/love-this-bridge.html",
 				
 				"content_html": "<p>Love this bridge that isn’t far from my house. Good one for @challenge day 6 - “Engineering”.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Love this bridge that isn’t far from my house. Good one for @challenge day 6 - “Engineering”.\n\n<img src=\"https://cdn.uploads.micro.blog/102448/2023/72f2d28d12.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Love this bridge that isn’t far from my house. Good one for @challenge day 6 - “Engineering”.\n\n<img src=\"uploads/2023/72f2d28d12.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-08T00:22:52+01:00",
 				"url": "https://qrk.social/2023/03/07/love-this-bridge.html",
 				"tags": ["Photos"]
@@ -347,7 +397,7 @@
 				"id": "http://kq.micro.blog/2023/03/07/a-whole-lot.html",
 				
 				"content_html": "<p>A WHOLE lot of stars. 📸</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A WHOLE lot of stars. 📸\n\n<img src=\"https://cdn.uploads.micro.blog/102448/2023/adde0c4d79.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "A WHOLE lot of stars. 📸\n\n<img src=\"uploads/2023/adde0c4d79.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-03-07T20:06:39+01:00",
 				"url": "https://qrk.social/2023/03/07/a-whole-lot.html",
 				"tags": ["Photos"]
