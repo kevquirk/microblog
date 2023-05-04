@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://kq.micro.blog/2023/05/03/saw-this-post.html",
+				
+				"content_html": "<p>Saw <a href=\"https://email-is-good.com/2023/05/02/email-pen-pals/\">this post by Chris Coyier</a>. I’d love an email Pen Pal - I think it’s a great idea. 📨</p>\n",
+				"content_text": "Saw [this post by Chris Coyier](https://email-is-good.com/2023/05/02/email-pen-pals/). I’d love an email Pen Pal - I think it’s a great idea. 📨\n",
+				"date_published": "2023-05-03T09:40:15+01:00",
+				"url": "https://qrk.social/2023/05/03/saw-this-post.html"
+			},
+			{
+				"id": "http://kq.micro.blog/2023/05/01/some-thoughts-on.html",
+				
+				"content_html": "<p>Some thoughts on the subscription culture that we find ourselves in when it comes to online services.</p>\n<p><a href=\"https://kevquirk.com/it-only-costs-a-coffee-per-month\">kevquirk.com/it-only-c&hellip;</a></p>\n",
+				"content_text": "Some thoughts on the subscription culture that we find ourselves in when it comes to online services.\r\n\r\n[kevquirk.com/it-only-c...](https://kevquirk.com/it-only-costs-a-coffee-per-month)\r\n",
+				"date_published": "2023-05-01T13:25:40+01:00",
+				"url": "https://qrk.social/2023/05/01/some-thoughts-on.html"
+			},
+			{
+				"id": "http://kq.micro.blog/2023/04/30/i-honestly-dont.html",
+				
+				"content_html": "<p>I honestly don’t understand how anyone can wear Crocs without socks. They rub my toe nails and it makes me feel physically sick. 🤮</p>\n<p>Modern day philosophy right here, people!</p>\n",
+				"content_text": "I honestly don’t understand how anyone can wear Crocs without socks. They rub my toe nails and it makes me feel physically sick. 🤮\n\nModern day philosophy right here, people!\n",
+				"date_published": "2023-04-30T22:18:20+01:00",
+				"url": "https://qrk.social/2023/04/30/i-honestly-dont.html"
+			},
+			{
 				"id": "http://kq.micro.blog/2023/04/28/i-told-my.html",
 				
 				"content_html": "<p>I told my wife I wouldn’t buy anymore watches, and to prove it, all my cases are full and I won’t buy another case…</p>\n<p>Do you think she’ll notice that extra watch squirrelled away at the back there? 😳 ⌚️</p>\n<!-- raw HTML omitted -->\n",
@@ -36,7 +60,7 @@
 				"id": "http://kq.micro.blog/2023/04/24/i-know-im.html",
 				
 				"content_html": "<p>I know I’m bias, but c’mon. The little fella really is a handsome little grey thing. 😊</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I know I’m bias, but c’mon. The little fella really is a handsome little grey thing. 😊\n\n<img src=\"uploads/2023/7f20f9c41a.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "I know I’m bias, but c’mon. The little fella really is a handsome little grey thing. 😊\n\n<img src=\"https://cdn.uploads.micro.blog/102448/2023/7f20f9c41a.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-24T22:45:18+01:00",
 				"url": "https://qrk.social/2023/04/24/i-know-im.html",
 				"tags": ["Photos"]
