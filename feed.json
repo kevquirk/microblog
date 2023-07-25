@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://kq.micro.blog/2023/07/24/made-some-changes.html",
+				
+				"content_html": "<p>Made some changes to <a href=\"https://kevquirk.com\">the website</a> over the weekend. Slightly improved header that takes up less vertical space on the page. I never really liked the centralised logo and nav menu.</p>\n<p>I think this works much better, although I might make it a little wider than the main content. 🤷‍♂️</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "Made some changes to [the website](https://kevquirk.com) over the weekend. Slightly improved header that takes up less vertical space on the page. I never really liked the centralised logo and nav menu.\n\nI think this works much better, although I might make it a little wider than the main content. 🤷‍♂️\n\n<img src=\"uploads/2023/1c707106b3.webp\" width=\"600\" height=\"453\" alt=\"\">\n\n<img src=\"uploads/2023/f120d3cfbe.webp\" width=\"600\" height=\"453\" alt=\"\">\n",
+				"date_published": "2023-07-24T14:15:48+01:00",
+				"url": "https://qrk.social/2023/07/24/made-some-changes.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://kq.micro.blog/2023/07/20/my-wife-will.html",
+				
+				"content_html": "<p>My wife will be cutting her hair off for charity today - the charity use the donated hair to make wigs for young cancer survivors and alopecia sufferers.</p>\n<p>If you’re interested in donating, that would be cool and very much appreciated. 👍</p>\n<p><a href=\"https://www.justgiving.com/page/jenny-quirk-1689314091635\">www.justgiving.com/page/jenn&hellip;</a></p>\n",
+				"content_text": "My wife will be cutting her hair off for charity today - the charity use the donated hair to make wigs for young cancer survivors and alopecia sufferers.\n\nIf you’re interested in donating, that would be cool and very much appreciated. 👍\n\n[www.justgiving.com/page/jenn...](https://www.justgiving.com/page/jenny-quirk-1689314091635)\n",
+				"date_published": "2023-07-20T07:03:56+01:00",
+				"url": "https://qrk.social/2023/07/20/my-wife-will.html"
+			},
+			{
 				"id": "http://kq.micro.blog/2023/07/17/i-know-im.html",
 				
 				"content_html": "<p>I know I&rsquo;m bias, but he&rsquo;s a handsome little thing&hellip;</p>\n<!-- raw HTML omitted -->\n",
@@ -45,7 +62,7 @@
 				"id": "http://kq.micro.blog/2023/07/16/fix-guttering.html",
 				
 				"content_html": "<p>Fix guttering ✅</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Fix guttering ✅\n\n<img src=\"uploads/2023/2da29f9fdf.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/32784f53d5.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Fix guttering ✅\n\n<img src=\"https://cdn.uploads.micro.blog/102448/2023/2da29f9fdf.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/102448/2023/32784f53d5.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-07-16T19:04:15+01:00",
 				"url": "https://qrk.social/2023/07/16/fix-guttering.html",
 				"tags": ["Photos"]
@@ -54,7 +71,7 @@
 				"id": "http://kq.micro.blog/2023/07/16/walk-dogs.html",
 				
 				"content_html": "<p>Walk dogs ✅</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Walk dogs ✅\n\n<img src=\"uploads/2023/964fa310d4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Walk dogs ✅\n\n<img src=\"https://cdn.uploads.micro.blog/102448/2023/964fa310d4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-07-16T18:08:38+01:00",
 				"url": "https://qrk.social/2023/07/16/walk-dogs.html",
 				"tags": ["Photos"]
