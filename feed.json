@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://kq.micro.blog/2023/07/26/social-media-is.html",
+				
+				"content_html": "<p>Social media is fucking us all up. I&rsquo;d love to go back to the days of forums, where there was no popularity contests, or &ldquo;influencers&rdquo;.<br>\n<!-- raw HTML omitted --><!-- raw HTML omitted --><a href=\"https://kevquirk.com/bring-back-the-humble-forum\">https://kevquirk.com/bring-back-the-humble-forum</a><!-- raw HTML omitted --></p>\n",
+				"content_text": "Social media is fucking us all up. I'd love to go back to the days of forums, where there was no popularity contests, or \"influencers\".   \r\n                <br><a href=\"https://kevquirk.com/bring-back-the-humble-forum\">https://kevquirk.com/bring-back-the-humble-forum</a>\n",
+				"date_published": "2023-07-26T10:47:00+01:00",
+				"url": "https://qrk.social/2023/07/26/social-media-is.html"
+			},
+			{
+				"id": "http://kq.micro.blog/2023/07/25/today-i-learned.html",
+				
+				"content_html": "<p>Today I learned that the Tesla range of cars are named as such so that they spell out the word “sexy”.</p>\n<p>Model S\nModel 3\nModel X\nModel Y</p>\n<p>What an utter fucking man child that man is.</p>\n",
+				"content_text": "Today I learned that the Tesla range of cars are named as such so that they spell out the word “sexy”.\n\nModel S\nModel 3\nModel X\nModel Y\n\nWhat an utter fucking man child that man is.\n",
+				"date_published": "2023-07-25T19:38:47+01:00",
+				"url": "https://qrk.social/2023/07/25/today-i-learned.html"
+			},
+			{
 				"id": "http://kq.micro.blog/2023/07/24/made-some-changes.html",
 				
 				"content_html": "<p>Made some changes to <a href=\"https://kevquirk.com\">the website</a> over the weekend. Slightly improved header that takes up less vertical space on the page. I never really liked the centralised logo and nav menu.</p>\n<p>I think this works much better, although I might make it a little wider than the main content. 🤷‍♂️</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
@@ -53,7 +69,7 @@
 				"id": "http://kq.micro.blog/2023/07/16/tidy-garage-kind.html",
 				
 				"content_html": "<p>Tidy garage ✅ (kind of)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Tidy garage ✅ (kind of)\n\n<img src=\"uploads/2023/5ffb97a4ae.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Tidy garage ✅ (kind of)\n\n<img src=\"https://cdn.uploads.micro.blog/102448/2023/5ffb97a4ae.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-07-16T19:11:05+01:00",
 				"url": "https://qrk.social/2023/07/16/tidy-garage-kind.html",
 				"tags": ["Photos"]
