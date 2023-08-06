@@ -7,6 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://kq.micro.blog/2023/08/03/rhythm-of-war.html",
+				
+				"content_html": "<p>Rhythm of War - the 4th book in Brandon Sanderson&rsquo;s Stormlight Archive<br>\n<!-- raw HTML omitted --><!-- raw HTML omitted --><a href=\"https://kevquirk.com/rhythm-of-war\">https://kevquirk.com/rhythm-of-war</a><!-- raw HTML omitted --></p>\n",
+				"content_text": "Rhythm of War - the 4th book in Brandon Sanderson's Stormlight Archive   \n                <br><a href=\"https://kevquirk.com/rhythm-of-war\">https://kevquirk.com/rhythm-of-war</a>\n",
+				"date_published": "2023-08-03T18:10:00+01:00",
+				"url": "https://qrk.social/2023/08/03/rhythm-of-war.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://kq.micro.blog/2023/08/02/as-coadmin-of.html",
+				
+				"content_html": "<p>As co-admin of one of the largest tech instances on the Fediverse, it&rsquo;s ironic that I struggle with social platforms so much.<br>\n<!-- raw HTML omitted --><!-- raw HTML omitted --><a href=\"https://kevquirk.com/running-a-social-platform-as-someone-who-dislikes-them\">https://kevquirk.com/running-a-social-platform-as-someone-who-dislikes-them</a><!-- raw HTML omitted --></p>\n",
+				"content_text": "As co-admin of one of the largest tech instances on the Fediverse, it's ironic that I struggle with social platforms so much.   \r\n                <br><a href=\"https://kevquirk.com/running-a-social-platform-as-someone-who-dislikes-them\">https://kevquirk.com/running-a-social-platform-as-someone-who-dislikes-them</a>\n",
+				"date_published": "2023-08-02T15:53:00+01:00",
+				"url": "https://qrk.social/2023/08/02/as-coadmin-of.html"
+			},
+			{
+				"id": "http://kq.micro.blog/2023/08/01/why-does-crossposting.html",
+				
+				"content_html": "<p>Why does cross-posting not work when a picture is attached?</p>\n",
+				"content_text": "Why does cross-posting not work when a picture is attached?\n",
+				"date_published": "2023-08-01T20:23:46+01:00",
+				"url": "https://qrk.social/2023/08/01/why-does-crossposting.html"
+			},
+			{
+				"id": "http://kq.micro.blog/2023/08/01/hooman-im-ready.html",
+				
+				"content_html": "<p>Hooman, I’m ready come up on the sofa now…</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Hooman, I’m ready come up on the sofa now…\n\n<img src=\"uploads/2023/5d97183ff8.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-08-01T20:12:43+01:00",
+				"url": "https://qrk.social/2023/08/01/hooman-im-ready.html",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://kq.micro.blog/2023/07/26/social-media-is.html",
 				
 				"content_html": "<p>Social media is fucking us all up. I&rsquo;d love to go back to the days of forums, where there was no popularity contests, or &ldquo;influencers&rdquo;.<br>\n<!-- raw HTML omitted --><!-- raw HTML omitted --><a href=\"https://kevquirk.com/bring-back-the-humble-forum\">https://kevquirk.com/bring-back-the-humble-forum</a><!-- raw HTML omitted --></p>\n",
@@ -43,7 +77,7 @@
 				"id": "http://kq.micro.blog/2023/07/17/i-know-im.html",
 				
 				"content_html": "<p>I know I&rsquo;m bias, but he&rsquo;s a handsome little thing&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I know I'm bias, but he's a handsome little thing...\n\n<img src=\"uploads/2023/squid.webp\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "I know I'm bias, but he's a handsome little thing...\n\n<img src=\"https://cdn.uploads.micro.blog/102448/2023/squid.webp\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-07-17T17:00:32+01:00",
 				"url": "https://qrk.social/2023/07/17/i-know-im.html",
 				"tags": ["Photos"]
@@ -60,7 +94,7 @@
 				"id": "http://kq.micro.blog/2023/07/16/aaaaaand-relax-cheers.html",
 				
 				"content_html": "<p>Aaaaaand relax. Cheers! 🍻</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Aaaaaand relax. Cheers! 🍻\n\n<img src=\"uploads/2023/c02286feb2.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Aaaaaand relax. Cheers! 🍻\n\n<img src=\"https://cdn.uploads.micro.blog/102448/2023/c02286feb2.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-07-16T19:12:45+01:00",
 				"url": "https://qrk.social/2023/07/16/aaaaaand-relax-cheers.html",
 				"tags": ["Photos"]
