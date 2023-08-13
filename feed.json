@@ -7,6 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://kq.micro.blog/2023/08/11/took-the-day.html",
+				
+				"content_html": "<p>Took the day off work. Kids are in holiday club, wife is off work too. Weather supposed to be lovely, so we planned a nice day together, just the 2 of us.</p>\n<p>Youngest woke up with a vomiting bug this morning. Typical. 😂</p>\n",
+				"content_text": "Took the day off work. Kids are in holiday club, wife is off work too. Weather supposed to be lovely, so we planned a nice day together, just the 2 of us.\n\nYoungest woke up with a vomiting bug this morning. Typical. 😂\n",
+				"date_published": "2023-08-11T09:43:17+01:00",
+				"url": "https://qrk.social/2023/08/11/took-the-day.html"
+			},
+			{
+				"id": "http://kq.micro.blog/2023/08/10/best-day-ive.html",
+				
+				"content_html": "<p>Best day I’ve taken off work for a while… 🏍️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Best day I’ve taken off work for a while… 🏍️\n\n<img src=\"uploads/2023/0ee7d6b040.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-08-10T17:08:17+01:00",
+				"url": "https://qrk.social/2023/08/10/best-day-ive.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://kq.micro.blog/2023/08/07/i-can-certainly.html",
+				
+				"content_html": "<p>I can certainly think of worse places to walk the dogs&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I can certainly think of worse places to walk the dogs...\n\n<img src=\"uploads/2023/img-0698.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-08-07T17:18:04+01:00",
+				"url": "https://qrk.social/2023/08/07/i-can-certainly.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://kq.micro.blog/2023/08/07/and-this-is.html",
+				
+				"content_html": "<p>&hellip;and this is why I don&rsquo;t post pictures (or details) of my kids on social media. Very powerful video.</p>\n<p><a href=\"https://www.youtube.com/watch?v=F4WZ_k0vUDM\">www.youtube.com/watch</a></p>\n",
+				"content_text": "...and this is why I don't post pictures (or details) of my kids on social media. Very powerful video.\r\n\r\n[www.youtube.com/watch](https://www.youtube.com/watch?v=F4WZ_k0vUDM)\r\n",
+				"date_published": "2023-08-07T14:26:22+01:00",
+				"url": "https://qrk.social/2023/08/07/and-this-is.html"
+			},
+			{
 				"id": "http://kq.micro.blog/2023/08/03/rhythm-of-war.html",
 				
 				"content_html": "<p>Rhythm of War - the 4th book in Brandon Sanderson&rsquo;s Stormlight Archive<br>\n<!-- raw HTML omitted --><!-- raw HTML omitted --><a href=\"https://kevquirk.com/rhythm-of-war\">https://kevquirk.com/rhythm-of-war</a><!-- raw HTML omitted --></p>\n",
@@ -35,7 +69,7 @@
 				"id": "http://kq.micro.blog/2023/08/01/hooman-im-ready.html",
 				
 				"content_html": "<p>Hooman, I’m ready come up on the sofa now…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hooman, I’m ready come up on the sofa now…\n\n<img src=\"uploads/2023/5d97183ff8.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Hooman, I’m ready come up on the sofa now…\n\n<img src=\"https://cdn.uploads.micro.blog/102448/2023/5d97183ff8.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-08-01T20:12:43+01:00",
 				"url": "https://qrk.social/2023/08/01/hooman-im-ready.html",
 				"tags": ["Photos"]
@@ -60,7 +94,7 @@
 				"id": "http://kq.micro.blog/2023/07/24/made-some-changes.html",
 				
 				"content_html": "<p>Made some changes to <a href=\"https://kevquirk.com\">the website</a> over the weekend. Slightly improved header that takes up less vertical space on the page. I never really liked the centralised logo and nav menu.</p>\n<p>I think this works much better, although I might make it a little wider than the main content. 🤷‍♂️</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "Made some changes to [the website](https://kevquirk.com) over the weekend. Slightly improved header that takes up less vertical space on the page. I never really liked the centralised logo and nav menu.\n\nI think this works much better, although I might make it a little wider than the main content. 🤷‍♂️\n\n<img src=\"uploads/2023/1c707106b3.webp\" width=\"600\" height=\"453\" alt=\"\">\n\n<img src=\"uploads/2023/f120d3cfbe.webp\" width=\"600\" height=\"453\" alt=\"\">\n",
+				"content_text": "Made some changes to [the website](https://kevquirk.com) over the weekend. Slightly improved header that takes up less vertical space on the page. I never really liked the centralised logo and nav menu.\n\nI think this works much better, although I might make it a little wider than the main content. 🤷‍♂️\n\n<img src=\"https://cdn.uploads.micro.blog/102448/2023/1c707106b3.webp\" width=\"600\" height=\"453\" alt=\"\">\n\n<img src=\"https://cdn.uploads.micro.blog/102448/2023/f120d3cfbe.webp\" width=\"600\" height=\"453\" alt=\"\">\n",
 				"date_published": "2023-07-24T14:15:48+01:00",
 				"url": "https://qrk.social/2023/07/24/made-some-changes.html",
 				"tags": ["Photos"]
