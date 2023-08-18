@@ -7,6 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://kq.micro.blog/2023/08/18/this-took-a.html",
+				
+				"content_html": "<p>This took a VERY long time, but I finally finished putting together my entire watch collection on my site.</p>\n<p><a href=\"https://kevquirk.com/watches\">kevquirk.com/watches</a></p>\n",
+				"content_text": "This took a VERY long time, but I finally finished putting together my entire watch collection on my site.\r\n\r\n[kevquirk.com/watches](https://kevquirk.com/watches)\r\n",
+				"date_published": "2023-08-18T18:08:18+01:00",
+				"url": "https://qrk.social/2023/08/18/this-took-a.html",
+				"tags": ["Watches"]
+			},
+			{
+				"id": "http://kq.micro.blog/2023/08/17/gah-i-hate.html",
+				
+				"content_html": "<p>Gah. I <strong>HATE</strong> that Micro.blog only mentions a single person when replying to multiple people. It seems like such a stupid approach.</p>\n<p>Conversations, especially in an open forum like this, often involve multiple parties.</p>\n",
+				"content_text": "Gah. I **HATE** that Micro.blog only mentions a single person when replying to multiple people. It seems like such a stupid approach.\n\nConversations, especially in an open forum like this, often involve multiple parties.\n",
+				"date_published": "2023-08-17T09:37:52+01:00",
+				"url": "https://qrk.social/2023/08/17/gah-i-hate.html"
+			},
+			{
+				"id": "http://kq.micro.blog/2023/08/16/wife-and-i.html",
+				
+				"content_html": "<p>Wife and I finished watching Schitts Creek this evening. Absolutely loved it - well worth a watch if you want some lighthearted humour.</p>\n<p><a href=\"https://www.imdb.com/title/tt3526078\">www.imdb.com/title/tt3&hellip;</a></p>\n",
+				"content_text": "Wife and I finished watching Schitts Creek this evening. Absolutely loved it - well worth a watch if you want some lighthearted humour.\n\n[www.imdb.com/title/tt3...](https://www.imdb.com/title/tt3526078)\n",
+				"date_published": "2023-08-16T23:26:51+01:00",
+				"url": "https://qrk.social/2023/08/16/wife-and-i.html"
+			},
+			{
+				"id": "http://kq.micro.blog/2023/08/15/been-working-on.html",
+				
+				"content_html": "<p>Been working on a page on my website for my watch collection. Goddam I have a lot of watches. 🥵⌚️</p>\n",
+				"content_text": "Been working on a page on my website for my watch collection. Goddam I have a lot of watches. 🥵⌚️\n",
+				"date_published": "2023-08-15T19:39:48+01:00",
+				"url": "https://qrk.social/2023/08/15/been-working-on.html",
+				"tags": ["Watches"]
+			},
+			{
 				"id": "http://kq.micro.blog/2023/08/11/took-the-day.html",
 				
 				"content_html": "<p>Took the day off work. Kids are in holiday club, wife is off work too. Weather supposed to be lovely, so we planned a nice day together, just the 2 of us.</p>\n<p>Youngest woke up with a vomiting bug this morning. Typical. 😂</p>\n",
@@ -27,7 +61,7 @@
 				"id": "http://kq.micro.blog/2023/08/07/i-can-certainly.html",
 				
 				"content_html": "<p>I can certainly think of worse places to walk the dogs&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I can certainly think of worse places to walk the dogs...\n\n<img src=\"uploads/2023/img-0698.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "I can certainly think of worse places to walk the dogs...\n\n<img src=\"https://cdn.uploads.micro.blog/102448/2023/img-0698.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-08-07T17:18:04+01:00",
 				"url": "https://qrk.social/2023/08/07/i-can-certainly.html",
 				"tags": ["Photos"]
