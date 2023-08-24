@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://kq.micro.blog/2023/08/22/i-decided-to.html",
+				
+				"content_html": "<p>I decided to mow the larger of our 2 fields yesterday, but our plucky little mower couldn&rsquo;t handle it.<br>\n<!-- raw HTML omitted --><!-- raw HTML omitted --><a href=\"https://kevquirk.com/mower-failure\">https://kevquirk.com/mower-failure</a><!-- raw HTML omitted --></p>\n",
+				"content_text": "I decided to mow the larger of our 2 fields yesterday, but our plucky little mower couldn't handle it.   \r\n                <br><a href=\"https://kevquirk.com/mower-failure\">https://kevquirk.com/mower-failure</a>\n",
+				"date_published": "2023-08-22T17:03:00+01:00",
+				"url": "https://qrk.social/2023/08/22/i-decided-to.html"
+			},
+			{
+				"id": "http://kq.micro.blog/2023/08/19/wifes-th-birthday.html",
+				
+				"content_html": "<p>Wife’s 40th birthday today, and we’re having a party. So I’ve been running around all morning and thus wearing my Mudman G-SHOCK.</p>\n<p>However, now I’m ready for the party, today’s #Wristcheck is this exquisite Baltany field watch. 👌</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Wife’s 40th birthday today, and we’re having a party. So I’ve been running around all morning and thus wearing my Mudman G-SHOCK.\n\nHowever, now I’m ready for the party, today’s #Wristcheck is this exquisite Baltany field watch. 👌\n\n<img src=\"uploads/2023/dd46887898.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-08-19T13:21:30+01:00",
+				"url": "https://qrk.social/2023/08/19/wifes-th-birthday.html",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://kq.micro.blog/2023/08/18/this-took-a.html",
 				
 				"content_html": "<p>This took a VERY long time, but I finally finished putting together my entire watch collection on my site.</p>\n<p><a href=\"https://kevquirk.com/watches\">kevquirk.com/watches</a></p>\n",
@@ -52,7 +69,7 @@
 				"id": "http://kq.micro.blog/2023/08/10/best-day-ive.html",
 				
 				"content_html": "<p>Best day I’ve taken off work for a while… 🏍️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Best day I’ve taken off work for a while… 🏍️\n\n<img src=\"uploads/2023/0ee7d6b040.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Best day I’ve taken off work for a while… 🏍️\n\n<img src=\"https://cdn.uploads.micro.blog/102448/2023/0ee7d6b040.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-08-10T17:08:17+01:00",
 				"url": "https://qrk.social/2023/08/10/best-day-ive.html",
 				"tags": ["Photos"]
